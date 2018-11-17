@@ -1,0 +1,20 @@
+{
+  "name": "facepet-api",
+  "version": "1.0.0",
+  "description": "APIRest con NodeJS + Express + Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Sequelize",
+    "Angular"
+  ],
+  "author": "Jackson",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.41.1"
+  }
+}
